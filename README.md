@@ -4,7 +4,7 @@
 - Configure
 
 
-    mv ./tmux.conf ~/.tmux.conf
+      mv ./tmux.conf ~/.tmux.conf
     
-    tmux source-file ~/.tmux.conf
+      tmux source-file ~/.tmux.conf
 
