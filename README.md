@@ -1,7 +1,8 @@
-## My Tmux Config Flie
+## Tmux Config Flie
 
-
-- Configure
+- Renderings
+![renderings](https://raw.githubusercontent.com/almasgeek/tmux-config/master/tmux.png)
+- Try this
 
 
       mv ./tmux.conf ~/.tmux.conf
