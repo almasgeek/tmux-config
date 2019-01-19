@@ -5,7 +5,7 @@
 - Try this
 
 
-      mv ./tmux.conf ~/.tmux.conf
+      ln -s tmux-config/.tmux.conf ~
     
       tmux source-file ~/.tmux.conf
 
